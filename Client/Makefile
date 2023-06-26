@@ -1,0 +1,2 @@
+M27.Client: main.cpp
+	g++ -o M27.Client main.cpp AddresseeIsMissing.h AddresseeIsMissing.cpp Chat.h Chat.cpp EnteringAddressee.h EnteringAddressee.cpp LoginCorrect.h LoginCorrect.cpp LoginIncorrect.h LoginIncorrect.cpp LoginNonunique.h LoginNonunique.cpp LoginUnique.h LoginUnique.cpp NetworkConfig.h NetworkConfig.cpp PasswordCorrect.h PasswordCorrect.cpp PasswordIncorrect.h PasswordIncorrect.cpp Registration.h Registration.cpp SignIn.h SignIn.cpp StartState.h StartState.cpp State.h State.cpp User.h User.cpp UserInChat.h UserInChat.cpp
